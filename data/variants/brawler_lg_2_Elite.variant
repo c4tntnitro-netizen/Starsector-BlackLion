@@ -15,8 +15,8 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS 003": "harpoon_single",
-                "WS 004": "harpoon_single"
+                "WS 003": "lightmortar",
+                "WS 004": "lightmortar"
             }
         }
     ]
