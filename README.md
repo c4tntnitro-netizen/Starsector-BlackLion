@@ -11,7 +11,7 @@ A radical modification of the Executor platform, stripped of its Andrada-pattern
 A prototype Lion's Guard Eagle refitted with Advanced Optics and Plasma Jets by unknown parties. Appears very rarely in Sindrian Diktat fleets.
 
 ### Brawler (BL)
-An automated Lion's Guard drone with built-in Kinetic Blasters and a Displacer system. Found exclusively in the Black Lion's escort fleet.
+An automated Lion's Guard drone with built-in Kinetic Blasters and a Phase Skimmer system. Found exclusively in the Black Lion's escort fleet.
 
 ## The Fleet
 
