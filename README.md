@@ -13,19 +13,6 @@ A prototype Lion's Guard Eagle refitted with Advanced Optics and Plasma Jets by 
 ### Brawler (BL)
 An automated Lion's Guard drone with built-in Kinetic Blasters and a Phase Skimmer system. Found exclusively in the Black Lion's escort fleet.
 
-## The Fleet
-
-A 240 DP Sindrian Diktat force patrols the Askonia fringe jump point:
-
-- 1x The Black Lion (flagship, always recoverable)
-- 2x Eagle (BL)
-- 7x Brawler (BL) (automated)
-- 3x Revenant (phase transports)
-- Full escort of Eagles, Falcons, Hammerheads, Sunders, and Centurions
-- All non-BL escort ships carry 3 built-in s-mods
-- Every crewed escort has an officer (level 3-5, one elite skill)
-- The fleet holds its ground and will not flee
-
 ## Installation
 
 1. Download the latest release or clone this repository
