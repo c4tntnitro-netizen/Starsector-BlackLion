@@ -30,12 +30,9 @@ A 240 DP Sindrian Diktat force patrols the Askonia fringe jump point:
 
 1. Download the latest release or clone this repository
 2. Place the folder in your Starsector `mods/` directory
-3. Enable **Black Lion Ships** in the launcher
 4. Start a **new game** (or load a save where the fleet hasn't spawned yet)
 
 ## Compatibility
 
 - Starsector 0.98a-RC8
 - No mod dependencies
-- Compatible with Nexerelin (Corvus mode)
-- Uses faction file merging — works alongside other Sindrian Diktat mods
