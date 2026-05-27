@@ -5,7 +5,7 @@ A Starsector mod that adds a unique, one-of-a-kind Sindrian Diktat fleet to the 
 ## Ships
 
 ### The Black Lion (Executor variant)
-A radical modification of the Executor platform, stripped of its Andrada-pattern internals and rewired around a highly experimental temporal core. Built-in Advanced Optics and Solar Shielding. Unique — only one exists in the sector. Always recoverable.
+A radical modification of the Executor platform, stripped of its Andrada-pattern internals and rewired around a highly experimental temporal core. Built-in Advanced Optics and Solar Shielding. 
 
 ### Eagle (BL)
 A prototype Lion's Guard Eagle refitted with Advanced Optics and Plasma Jets by unknown parties. Appears very rarely in Sindrian Diktat fleets.
