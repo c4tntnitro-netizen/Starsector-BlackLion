@@ -5,5 +5,6 @@
     "version":"1.0.0",
     "description":"Adds The Black Lion as a unique one-of-a-kind Lion's Guard flagship patrolling Askonia, and the Eagle (BL) as a very rare spawn in Sindrian Diktat fleets.",
     "gameVersion":"0.98a-RC8",
+    "jars":["jars/BlackLionShips.jar"],
     "modPlugin":"data.scripts.BlackLionModPlugin"
 }
