@@ -1,0 +1,46 @@
+{
+	"baseHullId":"pegasus",
+	"skinHullId":"executor_2",
+	"descriptionId":"executor_2",
+	"hullName":"The Black Lion",
+	"ordnancePoints":350,
+	#"incompatibleWithBaseHull":true, # for the autofit dialog
+	#"systemId":"",
+	"tags":["LG_bp"],
+	"tech":"Lion's Guard",
+	"builtInWings": [],
+	"fighterBays":0,
+	"spriteName":"graphics/ships/pegasus/blacklion2.png",
+	"baseValueMult":1.5,
+	"removeWeaponSlots":[], 			# ids
+	"removeEngineSlots":[], 			# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 			# hullmod ids
+	"removeBuiltInWeapons":[], 			# weapon slot ids
+	"systemId":"temporalshell",
+	"maxSpeed":50,
+	"shieldEfficiency":0.6,
+	"builtInMods":["solar_shielding", "advancedoptics"],
+	"builtInWeapons":{
+    },
+    "weaponSlotChanges":{
+		"WS 000":{
+			"type": "ENERGY",
+			"size": "LARGE"
+		},
+		"WS 001":{
+			"type": "ENERGY",
+			"size": "LARGE"
+		},
+	},
+	"engineSlotChanges":{
+		"3":{"length": 64, "width":20},
+		"4":{"length": 64, "width":20},
+		"5":{"length": 64, "width":20},
+		"6":{"length": 64, "width":20},
+		"7":{"length": 64, "width":20},
+		"8":{"length": 64, "width":20},
+	},    
+}
+
+
+

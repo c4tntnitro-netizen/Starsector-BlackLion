@@ -1,0 +1,18 @@
+{
+	id:"sindrian_diktat",
+	"knownShips":{
+		"tags":[],
+		"hulls":[
+			"eagle_LG_2",
+			"brawler_lg_2",
+		],
+	},
+	"hullFrequency":{
+		"tags":{
+		},
+		"hulls":{
+			"eagle_LG_2":0.05,
+			"brawler_lg_2":0,
+		},
+	},
+}

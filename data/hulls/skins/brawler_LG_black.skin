@@ -1,0 +1,37 @@
+{
+	"baseHullId":"brawler",
+	"skinHullId":"brawler_lg_2",
+	"hullName":"Brawler (BL)",
+	"descriptionPrefix":"Modified further from its original design by a collaboration between the Sindrian Diktat and unknown parties, this new, rarely-seen prototype of a new wave of Lion's Guard ships stands as yet another testament to the Diktat's boundless innovation. Though the first wave of Lion's Guard was completely faultless in both design and execution—as directled from the peerless wisdom of the Supreme Executor himself—this strange new variant both boldly pushes the bounds of contemporary ship design while also re-engineering the platform for tactical, rather than demonstrative, applications.",
+	"tags":["LG_bp","no_dealer","codex_unlockable"],
+	"tech":"Lion's Guard",
+	"spriteName":"graphics/ships/brawler/brawler_lg_2.png",
+	"baseValueMult":1,
+	"removeWeaponSlots":[], 		# ids
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"systemId":"displacer",
+	#"systemId":"ammofeed",
+	"ordnancePoints":33,
+	"builtInMods":["solar_shielding","automated","coherer"],
+	#"builtInMods":[],
+	    "builtInWeapons": {
+        "WS 001": "kineticblaster",
+        "WS 002": "kineticblaster"
+    },
+    "weaponSlotChanges":{
+		"WS 001":{
+			"type": "BUILT_IN"
+		},
+		"WS 002":{
+			"type": "BUILT_IN"
+		},
+		"WS 003":{
+			"type": "BALLISTIC"
+		},
+		"WS 004":{
+			"type": "BALLISTIC"
+		},
+	},
+}

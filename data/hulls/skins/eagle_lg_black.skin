@@ -1,0 +1,28 @@
+{
+	"baseHullId":"eagle",
+	"skinHullId":"eagle_LG_2",
+	"hullName":"Eagle (BL)",
+	"descriptionPrefix":"A rare and hithero unseen variant of a Lion's Guard ship, further modified by unknown parties within the Diktat for operations in the Askonia system. Though the original Lion's Guard design as decreed by Supreme Executor Phillip Andrada is surely beyond reproach, this new prototype bolsters significant changes made to make the platform more suited for tactical, rather than inspirational applications.",
+	"tags":["LG_bp","no_dealer","codex_unlockable"],
+	"tech":"Lion's Guard",
+	"spriteName":"graphics/ships/eagle/eagle_blacklion.png",
+	"baseValueMult":1.5,
+	"systemId":"plasmajets",
+	"removeWeaponSlots":[], 		# ids
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"ordnancePoints":135,
+	"builtInMods":["solar_shielding","advancedoptics"],
+	#"builtInMods":[""],
+	"builtInWeapons":{
+    },
+    "weaponSlotChanges":{
+		"WS 007":{
+			"type": "HYBRID"
+		},
+		"WS 008":{
+			"type": "HYBRID"
+		},
+	},
+}

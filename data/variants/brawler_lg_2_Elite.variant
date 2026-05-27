@@ -1,0 +1,23 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 6,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "brawler_lg_2",
+    "hullMods": [
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "brawler_lg_2_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "harpoon_single",
+                "WS 004": "harpoon_single"
+            }
+        }
+    ]
+}
