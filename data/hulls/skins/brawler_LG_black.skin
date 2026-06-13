@@ -13,7 +13,7 @@
 	"removeBuiltInWeapons":[], 		# weapon slot ids
 	"systemId":"displacer",
 	#"systemId":"ammofeed",
-	"ordnancePoints":33,
+	"ordnancePoints":46,
 	"builtInMods":["solar_shielding","automated","coherer"],
 	#"builtInMods":[],
 	    "builtInWeapons": {
